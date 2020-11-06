@@ -1,1 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2020-11-06T02:50:25.894Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" version="13.9.2" etag="mobhNmqW_9gA7Aa_cfkY" type="github"><diagram id="HJgq6B85QKkouXIqDJVE">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-06T03:05:16.862Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="pk2Pf5RaTqfmZc2j5gkh" version="13.9.2" type="github">
+  <diagram id="HJgq6B85QKkouXIqDJVE" name="Page-1">
+    <mxGraphModel dx="723" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kLEhkuJpTO9bSK7_1fZ3-1" value="" style="image;html=1;image=img/lib/clip_art/people/Farmer_Woman_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="120" y="300" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="kLEhkuJpTO9bSK7_1fZ3-2" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="350" as="sourcePoint" />
+            <mxPoint x="310" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kLEhkuJpTO9bSK7_1fZ3-3" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="349.5" as="sourcePoint" />
+            <mxPoint x="310" y="349.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kLEhkuJpTO9bSK7_1fZ3-4" value="" style="endArrow=classic;html=1;entryX=0.033;entryY=0.307;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="kLEhkuJpTO9bSK7_1fZ3-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="350" as="sourcePoint" />
+            <mxPoint x="310" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kLEhkuJpTO9bSK7_1fZ3-5" value="Student" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="400" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kLEhkuJpTO9bSK7_1fZ3-6" value="借阅图书(borrow)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="245" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kLEhkuJpTO9bSK7_1fZ3-7" value="还书(return)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="315" width="90" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="kLEhkuJpTO9bSK7_1fZ3-8" value="查询(find)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="390" width="90" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="kLEhkuJpTO9bSK7_1fZ3-9" value="" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="125" y="570" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="kLEhkuJpTO9bSK7_1fZ3-10" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="610" as="sourcePoint" />
+            <mxPoint x="300" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kLEhkuJpTO9bSK7_1fZ3-11" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="609.5" as="sourcePoint" />
+            <mxPoint x="300" y="609.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kLEhkuJpTO9bSK7_1fZ3-12" value="" style="endArrow=classic;html=1;entryX=0.033;entryY=0.307;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="kLEhkuJpTO9bSK7_1fZ3-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="610" as="sourcePoint" />
+            <mxPoint x="300" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kLEhkuJpTO9bSK7_1fZ3-13" value="用户增、删、改、查(manage user)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="505" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kLEhkuJpTO9bSK7_1fZ3-14" value="图书增、删、改、查(manage book)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="575" width="90" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="kLEhkuJpTO9bSK7_1fZ3-15" value="记录增、删、改、查(manage reword)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="650" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kLEhkuJpTO9bSK7_1fZ3-16" value="Manager" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="660" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
